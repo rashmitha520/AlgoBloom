@@ -26,3 +26,21 @@ public:
         return -1;
     }
 };
+//With pair
+class Solution {
+public:
+    int findJudge(int N, vector<vector<int>>& trust) {
+      vector<pair<int,int>> jud(N+1);
+        for(auto i:trust)
+        {
+            jud[i[0]].first++;
+             jud[i[1]].second++;
+        }
+        for(auto i=1;i<=N;i++)
+        {
+            if(jud[i].first==0 && jud[i].second==N-1)
+                return i;
+        }
+        return -1;
+    }
+};
