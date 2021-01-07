@@ -27,3 +27,29 @@ public:
     }
 };
 
+=======================================
+   #include <string>
+#include<vector>
+using namespace std;
+string v[] = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+int keypad(int num, string output[]){
+     if(num==0||num==1) {output[0]="";return 1;}
+     int last=num%10;
+     int rest=num/10;
+    string om[1000];
+    int scount=keypad(rest,om);
+    string laststring=v[last];
+    int ll=laststring.length();
+    int b=0;
+    for(int i=0;i<ll;i++)
+    {
+        for(int j=0;j<scount;j++)
+        {
+            output[b]=om[j]+laststring[i];
+            b++;
+        }
+    }
+    return b;
+}
+
+
