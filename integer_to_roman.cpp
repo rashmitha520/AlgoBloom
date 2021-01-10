@@ -25,3 +25,22 @@ public:
         return ans;
     }
 };
+//another method:
+#include<unordered_map>
+class Solution {
+public:
+   string s[4][10]={
+       {"","I","II","III","IV","V","VI","VII","VIII","IX"},
+       {"","X","XX","XXX","XL","L","LX","LXX","LXXX","XC"},
+       {"","C","CC","CCC","CD","D","DC","DCC","DCCC","CM"},
+       {"","M","MM","MMM"}
+   };
+    string intToRoman(int ans) {
+    
+        
+        
+      
+       return s[3][(ans/1000)%10]+s[2][(ans/100)%10]+ s[1][(ans/10)%10]+s[0][ans%10];
+        
+    }
+};
