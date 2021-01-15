@@ -10,7 +10,7 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
       int i=0,j=prices.size();int maxi=0;int mini=INT_MAX;       
-        while(i<j){
+        while(i<prices.size()){
         mini=min(mini,prices[i]);
         maxi=max(maxi,prices[i]-mini);
             i++;
