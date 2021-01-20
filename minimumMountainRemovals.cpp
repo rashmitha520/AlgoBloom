@@ -5,7 +5,7 @@
         for(int i=1;i<n;i++)
         {
             for(int j=0;j<i;j++)
-            {
+            {   
                 if(nums[i]>nums[j])
                     r[i]=max(r[i],r[j]+1);
             }
@@ -20,7 +20,8 @@
         }
         int m=0;
         for(int i=1;i<n-1;i++)
-        {if(l[i]>1 && r[i]>1)
+        {//doubt
+         if(l[i]>1 && r[i]>1)
           m=max(l[i]+r[i]-1,m);  
         }
         return n-m;
