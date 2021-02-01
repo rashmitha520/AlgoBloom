@@ -17,7 +17,7 @@ Explanation: From the root of the tree, we move one coin to its left child, and 
  
  <img src="https://assets.leetcode.com/users/votrubac/image_1548011422.png">             
              
-
+```cpp
 class Solution {
 public:
     int ans=0;
@@ -34,3 +34,4 @@ public:
         return root->val+l+r-1;
     }
 };
+```
