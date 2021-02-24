@@ -34,7 +34,7 @@ comparator problems
  1.https://leetcode.com/discuss/general-discussion/1050391/must-do-dynamic-programming-problems-category-wise
  2. https://www.geeksforgeeks.org/dynamic-programming/
 # Backtracking:
- 1.https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-  Palindrome-Partioning)
+ 1.https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)          
  2.https://www.geeksforgeeks.org/backtracking-algorithms/
  
 # Heaps:
