@@ -35,7 +35,7 @@ comparator problems
 2. https://www.geeksforgeeks.org/dynamic-programming/
 # Backtracking:
  1.https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
- https://www.geeksforgeeks.org/backtracking-algorithms/
+ 2.https://www.geeksforgeeks.org/backtracking-algorithms/
 # Heaps:
 1. https://www.geeksforgeeks.org/heap-data-structure/
 2. https://www.cs.purdue.edu/cgvlab/courses/251/lectures/slides/02.16-Heap.pdf
