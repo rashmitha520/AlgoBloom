@@ -32,13 +32,13 @@ https://www.codechef.com/certification/data-structures-and-algorithms/prepare#fo
 https://www.codechef.com/certification/data-structures-and-algorithms/prepare#advanced
 # DP:
 >> https://leetcode.com/discuss/general-discussion/1050391/must-do-dynamic-programming-problems-category-wise
-https://www.geeksforgeeks.org/dynamic-programming/
+>>https://www.geeksforgeeks.org/dynamic-programming/
 # Backtracking:
 >> https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
-https://www.geeksforgeeks.org/backtracking-algorithms/
+>> https://www.geeksforgeeks.org/backtracking-algorithms/
 # Heaps:
 >>https://www.geeksforgeeks.org/heap-data-structure/
-https://www.cs.purdue.edu/cgvlab/courses/251/lectures/slides/02.16-Heap.pdf
-https://courses.cs.washington.edu/courses/cse373/13wi/lectures/02-08/14-heaps-comparators.pdf
+>> https://www.cs.purdue.edu/cgvlab/courses/251/lectures/slides/02.16-Heap.pdf
+>> https://courses.cs.washington.edu/courses/cse373/13wi/lectures/02-08/14-heaps-comparators.pdf
 
 
