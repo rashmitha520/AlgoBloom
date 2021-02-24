@@ -32,10 +32,11 @@ comparator problems
 2.https://www.codechef.com/certification/data-structures-and-algorithms/prepare#advanced
 # DP:
  1.https://leetcode.com/discuss/general-discussion/1050391/must-do-dynamic-programming-problems-category-wise
-2. https://www.geeksforgeeks.org/dynamic-programming/
+ 2. https://www.geeksforgeeks.org/dynamic-programming/
 # Backtracking:
- 1.https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)
+ 1.https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-  Palindrome-Partioning)
  2.https://www.geeksforgeeks.org/backtracking-algorithms/
+ 
 # Heaps:
 1. https://www.geeksforgeeks.org/heap-data-structure/
 2. https://www.cs.purdue.edu/cgvlab/courses/251/lectures/slides/02.16-Heap.pdf
