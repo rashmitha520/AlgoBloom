@@ -33,9 +33,9 @@ comparator problems
 3.https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-LeetCode
 # DP:
  1.https://leetcode.com/discuss/general-discussion/1050391/must-do-dynamic-programming-problems-category-wise
- 2. https://www.geeksforgeeks.org/dynamic-programming/
- 3. https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
- 4. https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems
+ 2.https://www.geeksforgeeks.org/dynamic-programming/
+ 3.https://leetcode.com/discuss/general-discussion/458695/Dynamic-Programming-Patterns
+ 4.https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems
 # Backtracking:
  1.https://leetcode.com/problems/permutations/discuss/18239/A-general-approach-to-backtracking-questions-in-Java-(Subsets-Permutations-Combination-Sum-Palindrome-Partioning)          
  2.https://www.geeksforgeeks.org/backtracking-algorithms/
@@ -51,6 +51,6 @@ comparator problems
 # Graphs:
 1.https://leetcode.com/discuss/general-discussion/1079048/graph-traversals-and-number-of-connected-components-for-beginners
 2.https://leetcode.com/discuss/general-discussion/1078072/Introduction-to-Topological-Sort
-3.
+
 
 
