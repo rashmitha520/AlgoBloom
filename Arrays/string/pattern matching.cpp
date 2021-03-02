@@ -9,7 +9,7 @@ int main() {
   int m=s.length(),n=t.length();
   int k;
   for(int i=0;i<m-n;i++)
-  { if(s[i]!=t[k]) continue;
+  { if(s[i]!=t[0]) continue;
    bool isp=1;
    k=i;
     for(int j=0;j<n;j++)
