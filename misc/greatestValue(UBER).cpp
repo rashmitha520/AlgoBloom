@@ -23,7 +23,7 @@ int gr(vector<int> v)
          if((i-1>=0 && i+1<v.size()) && (v[i-1]<v[i] && v[i]>v[i+1]))
             s[i]=v[i]*v[i];
             //if left or right elements are bigger than the current minimum
-        else if((i-1>=0 && i+1<v.size()) && (v[i-1]>v[i] || v[i]<v[i+1]))
+        else if((i-1>=0 || i+1<v.size()) && (v[i-1]>v[i] || v[i]<v[i+1]))
         {   int left=i-1;
             while(left>=0 && v[left]>v[i])
                 {   s[i]=s[i]+v[left]; left--; }
