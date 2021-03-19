@@ -12,6 +12,7 @@ comparator problems
 2. views: top-view ,side -view, bottom view
 3. Construct BT given it's preorder ,postorder traversal.
 4. Level order traversal questions.
+5. Iterative postorder,preorder,inorder traversals
 
 ### Arrays:
 1. string related
