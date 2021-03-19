@@ -1,4 +1,9 @@
 //brute force
+  /**
+     * @param s: a string
+     * @param k: an integer
+     * @return: the number of substrings there are that contain at least k distinct characters
+     */
 long long kDistinctCharacters(string &s, int k) {
         // Write your code here
         vector<string> st;
