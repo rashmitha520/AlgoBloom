@@ -1,4 +1,4 @@
-//brute force
+//O(n^2) solution
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
