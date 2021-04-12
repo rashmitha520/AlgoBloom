@@ -53,5 +53,23 @@ comparator problems
 1.https://leetcode.com/discuss/general-discussion/1079048/graph-traversals-and-number-of-connected-components-for-beginners
 2.https://leetcode.com/discuss/general-discussion/1078072/Introduction-to-Topological-Sort
 
+# Prefix sum problems:
+* https://leetcode.com/problems/subarray-sum-equals-k/
+* https://leetcode.com/problems/make-sum-divisible-by-p/
+* https://leetcode.com/problems/continuous-subarray-sum/
+* https://leetcode.com/problems/contiguous-array/
+* https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/
+
+# Sliding window:
+
+    * Number of Substrings Containing All Three Characters
+    * Count Number of Nice Subarrays
+    * Replace the Substring for Balanced String
+    * Max Consecutive Ones III
+    * Binary Subarrays With Sum
+    * Subarrays with K Different Integers
+    * Fruit Into Baskets
+    * Shortest Subarray with Sum at Least K
+    * Minimum Size Subarray Sum
 
 
