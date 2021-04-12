@@ -17,3 +17,26 @@ public:
             return c;
     }
 };
+//prefix sum,hashmap
+// a(j,0) - a(i,0) ==0 then thats subarray sum is divisible.
+class Solution {
+public:
+    int subarraysDivByK(vector<int>& a, int k) {
+      map<int,int> m;
+      int sum=0,c=0;
+      int rem=0;m[0]=1;
+      for(int i=0;i<a.size();i++)
+      {
+          sum+=a[i];
+          rem = sum%k;
+          if(rem<0) rem+=k;
+          if(m.count(rem))
+          {
+              c+=m[rem];
+              m[rem]++;
+          }
+          else m[rem]++;
+      }
+        return c;
+    }
+};
