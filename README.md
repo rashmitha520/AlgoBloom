@@ -76,43 +76,43 @@ comparator problems
 
 
 Morris traversal
-https://leetcode.com/problems/binary-tree-level-order-traversal/
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/
-https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
-https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-https://www.hackerrank.com/challenges/tree-top-view/problem
-https://leetcode.com/problems/balanced-binary-tree/
-https://leetcode.com/problems/delete-node-in-a-bst/
-https://leetcode.com/problems/binary-tree-tilt/
+* https://leetcode.com/problems/binary-tree-level-order-traversal/
+* https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/solution/
+* https://leetcode.com/problems/maximum-difference-between-node-and-ancestor/
+* https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/
+* https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
+* https://www.hackerrank.com/challenges/tree-top-view/problem
+* https://leetcode.com/problems/balanced-binary-tree/
+* https://leetcode.com/problems/delete-node-in-a-bst/
+* https://leetcode.com/problems/binary-tree-tilt/
 
 Practice , revise from coding ninjas , geeksforgeeks 
 
 
 
-DP todo:
+# DP todo:
 
 Hard- https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5D=dynamic-programming&filters%5Bdifficulty%5D%5B%5D=hard
 
-https://leetcode.com/problems/make-sum-divisible-by-p/ 
-https://leetcode.com/problems/longest-palindromic-subsequence/
-https://leetcode.com/problems/maximum-product-subarray/
-Sunday todo:Search in Rotated Sorted Array II 
+* https://leetcode.com/problems/make-sum-divisible-by-p/ 
+* https://leetcode.com/problems/longest-palindromic-subsequence/
+* https://leetcode.com/problems/maximum-product-subarray/
+* Sunday todo:Search in Rotated Sorted Array II 
 
 
-https://leetcode.com/problemset/all/?search=subarray
-https://leetcode.com/problemset/all/?search=subset
-https://leetcode.com/problemset/all/?search=maximum
+* https://leetcode.com/problemset/all/?search=subarray
+* https://leetcode.com/problemset/all/?search=subset
+* https://leetcode.com/problemset/all/?search=maximum
 
 
-Data structures:
+# Data structures:
 
-Trees - traversals, subtree , lca, diameter, path sum , traversal construction etc
-Linked list - sum, reverse, double , numbers, merge ,reverse k-group etc
-Heaps - median , k-largest ,priority
-Graph - connected ,topological , algorithms-prim,kruskal etc
-Stacks - parentheses ,rainwater etc
-DP - standard problems , gfg ,leetcode ,HackerRank -2d,1d,lcs,lis,maze,max,min,longest etc
+* Trees - traversals, subtree , lca, diameter, path sum , traversal construction etc
+* Linked list - sum, reverse, double , numbers, merge ,reverse k-group etc
+* Heaps - median , k-largest ,priority
+* Graph - connected ,topological , algorithms-prim,kruskal etc
+* Stacks - parentheses ,rainwater etc
+* DP - standard problems , gfg ,leetcode ,HackerRank -2d,1d,lcs,lis,maze,max,min,longest etc
 
 
 
