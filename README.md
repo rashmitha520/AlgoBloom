@@ -3,6 +3,8 @@
 This is the storehouse for all the problems I've done till now.
 
 ## Todo problems in following topics:
+### Water ,stack problems:
+https://leetcode.com/problemset/all/?search=water%20
 ### Heaps:
 comparator problems
 
