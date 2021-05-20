@@ -116,6 +116,10 @@ Hard- https://www.hackerrank.com/domains/algorithms?filters%5Bsubdomains%5D%5B%5
 * Graph - connected ,topological , algorithms-prim,kruskal etc
 * Stacks - parentheses ,rainwater etc
 * DP - standard problems , gfg ,leetcode ,HackerRank -2d,1d,lcs,lis,maze,max,min,longest etc
+* Divide conquer
+* Sorting algos
+* Time complexity
+* Merge lists ,binary search
 
 
 
