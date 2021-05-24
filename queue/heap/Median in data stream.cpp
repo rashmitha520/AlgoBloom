@@ -8,20 +8,20 @@ public:
     }
       double findMedian() {
        if(maxi.size()==0 && mini.size()==0) return 0;   
-    else if(maxi.size()<mini.size()) return mini.top();
+    else if(maxi.size()<mini.size()) return mini.top(); //pq with greater size will be having its top as median
     else if(maxi.size()>mini.size()) return maxi.top();
-       return ((double)maxi.top()+mini.top())*0.5;
+       return ((double)maxi.top()+mini.top())*0.5;// else the avg of both the tops
     }
     void addNum(int num) {
        int median=findMedian();
-      if(maxi.size()==mini.size())
+      if(maxi.size()==mini.size()) //if same size then compare and push.
       {
           if(num<median)
               maxi.push(num);
           
           else mini.push(num);
       }
-      if(maxi.size()<mini.size())
+      if(maxi.size()<mini.size()) //pqs size diff should always be <=1
       {
           if(num<median)
               maxi.push(num);
