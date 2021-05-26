@@ -16,7 +16,9 @@ public:
         return ans;
     }
 };
->>
+```
+
+```cpp
 //memoization
 int find(int k,int n, vector<vector<int>>& dp)
     {
@@ -36,6 +38,9 @@ int find(int k,int n, vector<vector<int>>& dp)
        
         return  find(k,n,dp);;
     }
+    
+```
+```cpp
 //memoization + binary search
  int find(int k,int n, vector<vector<int>>& dp)
     {
@@ -70,7 +75,8 @@ int find(int k,int n, vector<vector<int>>& dp)
        
         return  find(k,n,dp);;
     }
-
+```
+```cpp
 //dp 
 class Solution {
 public:
