@@ -16,3 +16,20 @@
       vector<vector<int>> dp(d+1,vector<int>(target+1,-1));
        return find(d,f,target,dp);
     }
+
+//dp 
+ #define m 1000000007
+  
+    int numRollsToTarget(int d, int f, int target) {
+      vector<vector<int>> dp(d+1,vector<int>(target+1,0));
+      
+        dp[0][0]=1;
+       
+        for(int dice=1;dice<=d;dice++)
+            for(int tar=1;tar<=target;tar++)
+                 for(int i=1;i<=f;i++)
+                 { if(tar>=i)
+                   dp[dice][tar]=((dp[dice][tar]%m)+ (dp[dice-1][tar-i]%m))%m;
+                   }
+        return dp[d][target]; 
+    }
