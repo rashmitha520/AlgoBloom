@@ -19,22 +19,21 @@ Explanation: There are:
 You can take all the boxes of the first and second types, and one box of the third type.
 The total number of units will be = (1 * 3) + (2 * 2) + (1 * 1) = 8.*/
 
-
-static bool cmp(vector<int>& a,vector<int>& b)
+    static bool cmp(vector<int>& a,vector<int>& b)
     {
         return a[1]>b[1];
     }
     int maximumUnits(vector<vector<int>>& boxTypes, int t) {
-        sort(boxTypes.begin(),boxTypes.end(),cmp);
+        sort(boxTypes.begin(),boxTypes.end(),cmp);//sort based on no of units
         int c=0;
         for(auto box:boxTypes)
         {
-            if(box[0]<=t)
+            if(box[0]<=t) //if less than t then directly multiply
             {
                 c+=(box[0]*box[1]);
                 t-=box[0];
             }
-            else
+            else //else multiply remaining boxes
             {
                 c+=(t*box[1]);
                 return c;
