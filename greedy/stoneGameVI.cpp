@@ -1,18 +1,17 @@
-  static   bool cmp(pair<int,int>&a ,pair<int,int>& b)
+   static   bool cmp(pair<int,int>&a ,pair<int,int>& b)
     {
         return a.first+a.second>b.first+b.second;
     }
     int stoneGameVI(vector<int>& a, vector<int>& b) {
         int al=0,bob=0,n=a.size();
        vector<pair<int,int>> q;
-       for(int i:a) al+=i;
-       for(int i:b) bob+=i;
+    
         for(int i=0;i<n;i++)
         {
             q.push_back({a[i],b[i]});
             
         }
-        sort(q.begin(),q.end(),cmp);
+        sort(q.begin(),q.end(),cmp); //sorting based on max(a[i]+b[i]);
         bool turn=0;
         for(int i=0;i<q.size();i++)
         {
@@ -20,11 +19,11 @@
          
             if(turn==0)
             {
-            al+=fr.second;}
+            al+=fr.first;} 
             else
             {
                
-                bob+=fr.first;
+                bob+=fr.second;
             }
             turn=!turn;
         }
