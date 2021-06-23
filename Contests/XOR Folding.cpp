@@ -20,7 +20,7 @@ int main() {
 	            if(c=='1') res++;
 	        }
 	    }
-	    if(res%2) cout<<"YES"<<endl;
+	    if(res%2) cout<<"YES"<<endl; //if all ones are odd then only it will be 1
 	    else cout<<"NO"<<endl;
 	}
 	return 0;
