@@ -1,6 +1,6 @@
     long long wonderfulSubstrings(string word) {
-        int mask=0,res=0;
-        map<int,int> count;
+      long mask=0,res=0;
+        map<long long int,long long int> count;
         count[0]=1;
         for(auto c:word)
         {
