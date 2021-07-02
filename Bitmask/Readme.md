@@ -5,7 +5,7 @@
 4. DRY RUN:
  **leetcodeisgreat:**
  mask=0;
- **iter-1:** mask=0;
+**iter-1:** mask=0;
 **iter-2:** mask=0^1
  m[1]=1;
  res = max(res,1-1) = 0;
