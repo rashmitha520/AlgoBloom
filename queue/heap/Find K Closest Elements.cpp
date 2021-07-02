@@ -14,3 +14,6 @@
         sort(begin(ans),end(ans));
         return ans;
     }
+//Binary Search + Sliding Window
+
+//Another Approach
