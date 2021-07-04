@@ -1,6 +1,6 @@
   #define mod 1000000007
 //even indices : 5 ; odd indices: 4
-//if n=3 : 4^2*5^1 : 80
+//if n=3 : 4^1*5^2 : 80
 //if n=4 : 4^2*5^2 - 400
     long long power(long long x,long long n,long long m)
     {
