@@ -27,3 +27,21 @@ public:
         return omax;
     }
 };
+
+//O(nlogn) 
+    int lengthOfLIS(vector<int>& nums) {
+        vector<int> dp;
+        dp.push_back(nums[0]);
+        for(int i=0;i<nums.size();i++)
+        {
+            if(dp.back()<nums[i])
+                dp.push_back(nums[i]);
+            else
+            {
+                int j=lower_bound(dp.begin(),dp.end(),nums[i])-dp.begin();
+                dp[j]=nums[i];
+            }
+            
+        }
+        return dp.size();
+    }
