@@ -4,8 +4,8 @@ for(int i=0;i<10;i++)
   cout<<files[i]<<" ";
 
 //method-2
-priority_queue<int> func(vector<int> files)
-{priority_queue<int> p;
+void func(vector<int> files)
+{priority_queue<int, vector<int>, greater<int>> p;
 
 for(int i=0;i<files.size();i++)
 {
@@ -15,5 +15,8 @@ for(int i=0;i<files.size();i++)
     p.pop();
   }
 }
-return p;
+while(p.size()>0){
+  cout<<p.top()<<endl;
+  p.pop();
+}
 }
