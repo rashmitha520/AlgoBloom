@@ -9,3 +9,5 @@
 5. Greedy
 6. Monotonic queues , stacks
 7. Priority queues
+8. String based problems
+9. Subarray , subsequence , substring problems
