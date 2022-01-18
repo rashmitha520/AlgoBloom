@@ -3,11 +3,11 @@
 ## January plan:
 
 1. 4-5 problems per day
-2. DP
-3. 6 days companies
-4. Binary Search
-5. Greedy
-6. Monotonic queues , stacks
-7. Priority queues
-8. String based problems
-9. Subarray , subsequence , substring problems
+2. 6 days companies
+
+# Topics for Jan:
+
+1. DP
+2. Binary Search
+3. Graph
+4. Greedy
