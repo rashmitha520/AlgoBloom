@@ -1,6 +1,6 @@
 # AlgoBloom
 
-This is the storehouse for all the problems I've done till now.
+This is the storehouse for all the problems I've done till now and resources that can be referred while stuck or practicing.
 ## How Not to Interview :p 
 https://docs.google.com/document/d/1JH4ElSvgyi-12AVNyia6GESgFX0DQ7xTYP6IY8oSBy4/edit?usp=sharing
 Compilation of my interview fails ! Made many silly mistakes in many interviews. 
