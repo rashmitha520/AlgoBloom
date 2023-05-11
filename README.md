@@ -6,6 +6,7 @@ https://docs.google.com/document/d/1JH4ElSvgyi-12AVNyia6GESgFX0DQ7xTYP6IY8oSBy4/
 Compilation of my interview fails ! Made many silly mistakes in many interviews. 
 ## Resources for Interview Prep:
 https://docs.google.com/document/d/1dLRl5DEgOShx8uR3lUIcHzGyk5vwF_KjVoSVO19cx7k/edit?usp=sharing
+IF beginner study data structures from pepcoding youtube videos and code simultaneously. Then code all standard questions present in gfg . Then practice the harder,medium questions and keep on revising daily . Take advantage of contests held on codechef,codeforces and leetcode. Upsolve questions , never aim for less. Mediocrity makes you blunt .Solve each question using multiple approaches , use discuss sections of leetcode and youtube. Write everything you dont understand in a book and revise it daily. You may be late or learning slow , but with consistent practice and revision you will beat anyone ! Take advantage of learning sprints by codechef which has different levels.
 
 ## System Design
 https://docs.google.com/document/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/edit?usp=sharing&ouid=113613682628618957229&rtpof=true&sd=true
