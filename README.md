@@ -1,6 +1,8 @@
 # AlgoBloom
 
 This is the storehouse for all the problems I've done till now.
+## Resources for Interview Prep:
+https://docs.google.com/document/d/1dLRl5DEgOShx8uR3lUIcHzGyk5vwF_KjVoSVO19cx7k/edit?usp=sharing
 
 ## Todo problems in following topics:
 ### Water ,stack problems:
