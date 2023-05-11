@@ -1,8 +1,14 @@
 # AlgoBloom
 
 This is the storehouse for all the problems I've done till now.
+## How Not to Interview :p 
+https://docs.google.com/document/d/1JH4ElSvgyi-12AVNyia6GESgFX0DQ7xTYP6IY8oSBy4/edit?usp=sharing
+Compilation of my interview fails ! Made many silly mistakes in many interviews. 
 ## Resources for Interview Prep:
 https://docs.google.com/document/d/1dLRl5DEgOShx8uR3lUIcHzGyk5vwF_KjVoSVO19cx7k/edit?usp=sharing
+
+## System Design
+https://docs.google.com/document/d/16wtG6ZsThlu_YkloeyX8pp2OEjVebure/edit?usp=sharing&ouid=113613682628618957229&rtpof=true&sd=true
 
 ## Todo problems in following topics:
 ### Water ,stack problems:
